@@ -415,9 +415,9 @@ function contactsForm (firstCity, secondCity, thirdCity, fourthCity) {
         contactForm.classList.add('contact__form_active');
         citesForm.classList.add('contact__citesforms_active');
         nameForm.textContent = 'New York City';
-        phoneCity.textContent = '+1	585	393 0002';
-        adressCity.textContent = '78 Fulton Street';
-        document.getElementById('call').href = 'tel:+15853930002';
+        phoneCity.textContent = '+1	212	456 0002';
+        adressCity.textContent = '9 East 91st Street';
+        document.getElementById('call').href = 'tel:+12124560002';
     });
 
     thirdCity.addEventListener('click', () => {
@@ -425,9 +425,9 @@ function contactsForm (firstCity, secondCity, thirdCity, fourthCity) {
         contactForm.classList.add('contact__form_active');
         citesForm.classList.add('contact__citesforms_active');
         nameForm.textContent = 'Yonkers, NY';
-        phoneCity.textContent = '+1	585	393 0003';
-        adressCity.textContent = '92 Minetta Street';
-        document.getElementById('call').href = 'tel:+15853930003';
+        phoneCity.textContent = '+1	914	678 0003';
+        adressCity.textContent = '511 Warburton Ave';
+        document.getElementById('call').href = 'tel:+19146780003';
     });
 
     fourthCity.addEventListener('click', () => {
@@ -435,9 +435,9 @@ function contactsForm (firstCity, secondCity, thirdCity, fourthCity) {
         contactForm.classList.add('contact__form_active');
         citesForm.classList.add('contact__citesforms_active');
         nameForm.textContent = 'Sherrill, NY';
-        phoneCity.textContent = '+1	585	393 0004';
-        adressCity.textContent = '15 Orchard Street';
-        document.getElementById('call').href = 'tel:+15853930004';
+        phoneCity.textContent = '+1	315	908 0004';
+        adressCity.textContent = '14 WEST Noyes BLVD';
+        document.getElementById('call').href = 'tel:+13159080004';
     });
 
 }
