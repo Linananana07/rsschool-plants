@@ -36,3 +36,7 @@ If you have any questions or suggestions for improving the project, feel free to
 
 # License
 This project is licensed under the MIT License.
+
+# Project
+
+https://Linananana07.github.io/rsschool-plants
